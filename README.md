@@ -4,7 +4,7 @@ Este é um modelo inicial com CodeIgniter 3.1.x .
 
 ### Configuração banco de dados / localhost
 - application/config/config.php
-   - $config['base_url'] = 'http://localhost/w2o_projeto/'; |
+   - $config['base_url'] = 'http://localhost/colaboradores/'; |
 
 - application/config/database.php
   - 'hostname' => 'localhost',
